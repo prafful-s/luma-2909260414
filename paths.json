@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/risharma/ikea-campaign-demo/language-masters/en:/",
+    "/content/risharma/ikea-campaign-demo/language-masters/en/:/en/",
+    "/content/risharma/ikea-campaign-demo/configuration:/.helix/config.json",
+    "/content/risharma/ikea-campaign-demo/metadata:/metadata.json",
+    "/content/risharma/ikea-campaign-demo/redirects:/redirects.json",
+    "/content/risharma/ikea-campaign-demo/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/risharma/ikea-campaign-demo/",
+    "/content/dam/risharma/ikea-campaign-demo/"
   ]
 }
